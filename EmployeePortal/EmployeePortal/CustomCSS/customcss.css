@@ -1,0 +1,15 @@
+﻿.navbar {
+    background-color: rgb(132 125 113 / 60%);
+}
+.portal-Login {
+    height: 616px;
+}
+
+.welcomepg {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Icons and  Images/d.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  
+}

@@ -1,0 +1,13 @@
+﻿
+.footerlinks{
+    color:white;
+}
+.footerlinks:hover {
+    color:dodgerblue
+}
+.nav-links {
+    color: white;
+}
+.nav-links:hover {
+    color:dodgerblue;
+}
